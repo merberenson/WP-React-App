@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WP-React-App/static/css/main.d6ee39dd.css",
+    "main.js": "/WP-React-App/static/js/main.40bc42e4.js",
+    "static/js/453.b21a91d2.chunk.js": "/WP-React-App/static/js/453.b21a91d2.chunk.js",
+    "index.html": "/WP-React-App/index.html",
+    "main.d6ee39dd.css.map": "/WP-React-App/static/css/main.d6ee39dd.css.map",
+    "main.40bc42e4.js.map": "/WP-React-App/static/js/main.40bc42e4.js.map",
+    "453.b21a91d2.chunk.js.map": "/WP-React-App/static/js/453.b21a91d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6ee39dd.css",
+    "static/js/main.40bc42e4.js"
+  ]
+}
