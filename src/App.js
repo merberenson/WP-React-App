@@ -23,7 +23,7 @@ class App extends Component {
     render() {
         return (
             <div className="App">
-                <HelloWorld name="Your Name" />
+                <HelloWorld name="Meredith" />
                 <Counter />
                 <FilteredList items={produce} />
             </div>
